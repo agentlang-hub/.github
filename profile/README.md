@@ -13,7 +13,7 @@ or using locally installed [Agentlang CLI](https://github.com/agentlang-ai/agent
 | [weather-service](../../../../weather-service)                     | Beginner | Answers city-wise weather questions |
 | [customer_support](../../../../customer_support)                   | Medium   | Answers customer-support questions based on local documents |
 | [expense](../../../../expense)                                     | Medium   | Files expense reports from provided receipt image URLs |
-| [github-issue-label](../../../../github-issue-label)               | Medium   | Auto-labels Github issues triaged with AI |
+| [github-issue-autolabel](../../../../github-issue-autolabel)       | Medium   | Auto-labels Github issues triaged with AI |
 | [verified-answerer](../../../../verified-answerer)                 | Medium   | Provides verified answers to general questions |
 | [payment_reconciliation](../../../../payment_reconciliation)       | Advanced | An Enterprise Resource Planning suite |
 
