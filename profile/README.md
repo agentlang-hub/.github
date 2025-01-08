@@ -2,5 +2,5 @@
 
 | Example App        | Description |
 |--------------------|-------------|
-| [joke](../../joke) | Tells jokes based on provided context |
+| [joke](../../../../joke) | Tells jokes based on provided context |
 
