@@ -1,7 +1,9 @@
-# Agentlang Hub - Example apps for [Agentlang](https://github.com/agentlang-ai/agentlang)
+# Agentlang Hub
 
-This Github organisation contains example apps written in
+This Github organisation contains apps written in
 [Agentlang](https://github.com/agentlang-ai/agentlang).
+
+## Some example apps for [Agentlang](https://github.com/agentlang-ai/agentlang)
 
 You may run the example apps using pre-built Docker images or using locally installed [Agentlang CLI](https://github.com/agentlang-ai/agentlang.cli).
 
