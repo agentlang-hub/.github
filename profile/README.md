@@ -3,8 +3,7 @@
 This Github organisation contains example apps written in
 [Agentlang](https://github.com/agentlang-ai/agentlang).
 
-You may run the example apps using [Docker](https://www.docker.com/)
-or using locally installed [Agentlang CLI](https://github.com/agentlang-ai/agentlang.cli).
+You may run the example apps using pre-built Docker images or using locally installed [Agentlang CLI](https://github.com/agentlang-ai/agentlang.cli).
 
 | Example App                                                        | Level    | Description |
 |--------------------------------------------------------------------|----------|-------------|
